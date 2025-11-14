@@ -1,0 +1,3 @@
+= Contemplate
+
+A backendless chat interface using local cached thougths.
