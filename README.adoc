@@ -1,3 +1,7 @@
 = Contemplate
 
 A backendless chat interface using local cached thougths.
+
+# Demo
+
+https://wkirk-git.github.io/contemplate/
