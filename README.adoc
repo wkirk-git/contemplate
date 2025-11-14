@@ -1,6 +1,6 @@
 = Contemplate
 
-A backendless chat interface using local cached thougths.
+A backendless chat interface using local thought caching.
 
 # Demo
 
